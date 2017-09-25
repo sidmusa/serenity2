@@ -3,34 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://learnmonk.netlify.com/post/clear/</loc>
+    <loc>https://clearbear.netlify.com/post/clear/</loc>
     <lastmod>2017-09-25T13:56:47-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://learnmonk.netlify.com/categories/</loc>
+    <loc>https://clearbear.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://learnmonk.netlify.com/</loc>
-    <lastmod>2017-09-25T13:56:47-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://learnmonk.netlify.com/post/</loc>
+    <loc>https://clearbear.netlify.com/</loc>
     <lastmod>2017-09-25T13:56:47-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://learnmonk.netlify.com/tags/</loc>
+    <loc>https://clearbear.netlify.com/post/</loc>
+    <lastmod>2017-09-25T13:56:47-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://learnmonk.netlify.com/post/this-is-great/</loc>
+    <loc>https://clearbear.netlify.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://clearbear.netlify.com/post/this-is-great/</loc>
+  </url>
+  
+  <url>
+    <loc>https://clearbear.netlify.com/post/title/</loc>
   </url>
   
 </urlset>
