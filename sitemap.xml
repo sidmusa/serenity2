@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sidmusa.github.io/clearest/post/clear/</loc>
+    <loc>https://sidmusa.github.io/serenity/post/clear/</loc>
     <lastmod>2017-09-25T13:56:47-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sidmusa.github.io/clearest/categories/</loc>
+    <loc>https://sidmusa.github.io/serenity/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sidmusa.github.io/clearest/</loc>
-    <lastmod>2017-09-25T13:56:47-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sidmusa.github.io/clearest/post/</loc>
+    <loc>https://sidmusa.github.io/serenity/</loc>
     <lastmod>2017-09-25T13:56:47-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sidmusa.github.io/clearest/tags/</loc>
+    <loc>https://sidmusa.github.io/serenity/post/</loc>
+    <lastmod>2017-09-25T13:56:47-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sidmusa.github.io/serenity/tags/</loc>
     <priority>0</priority>
   </url>
   
