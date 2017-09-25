@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sidmusa.github.io/serenity/post/clear/</loc>
+    <loc>https://learnmonk.netlify.com/post/clear/</loc>
     <lastmod>2017-09-25T13:56:47-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sidmusa.github.io/serenity/categories/</loc>
+    <loc>https://learnmonk.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sidmusa.github.io/serenity/</loc>
-    <lastmod>2017-09-25T13:56:47-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sidmusa.github.io/serenity/post/</loc>
+    <loc>https://learnmonk.netlify.com/</loc>
     <lastmod>2017-09-25T13:56:47-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sidmusa.github.io/serenity/tags/</loc>
+    <loc>https://learnmonk.netlify.com/post/</loc>
+    <lastmod>2017-09-25T13:56:47-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://learnmonk.netlify.com/tags/</loc>
     <priority>0</priority>
   </url>
   
