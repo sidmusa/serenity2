@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://clearbear.netlify.com/post/win/</loc>
+    <lastmod>2017-09-25T15:48:13-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clearbear.netlify.com/post/help/</loc>
+    <lastmod>2017-09-25T15:40:55-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://clearbear.netlify.com/post/clear/</loc>
     <lastmod>2017-09-25T13:56:47-04:00</lastmod>
   </url>
@@ -13,32 +23,20 @@
   </url>
   
   <url>
-    <loc>https://clearbear.netlify.com/post/how-to-not-relapse-during-a-nofap-streak/</loc>
-  </url>
-  
-  <url>
     <loc>https://clearbear.netlify.com/</loc>
-    <lastmod>2017-09-25T13:56:47-04:00</lastmod>
+    <lastmod>2017-09-25T15:48:13-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://clearbear.netlify.com/post/</loc>
-    <lastmod>2017-09-25T13:56:47-04:00</lastmod>
+    <lastmod>2017-09-25T15:48:13-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://clearbear.netlify.com/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://clearbear.netlify.com/post/this-is-great/</loc>
-  </url>
-  
-  <url>
-    <loc>https://clearbear.netlify.com/post/title/</loc>
   </url>
   
 </urlset>
