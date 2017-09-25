@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Themes</title>
+    <link>https://sidmusa.github.io/clearest/</link>
+    <description>Recent content on Hugo Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright (c) 2008 - 2014, all rights reserved.</copyright>
+    <lastBuildDate>Mon, 25 Sep 2017 13:56:47 -0400</lastBuildDate>
+    
+	<atom:link href="https://sidmusa.github.io/clearest/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Clear</title>
+      <link>https://sidmusa.github.io/clearest/post/clear/</link>
+      <pubDate>Mon, 25 Sep 2017 13:56:47 -0400</pubDate>
+      
+      <guid>https://sidmusa.github.io/clearest/post/clear/</guid>
+      <description>Hello, I&amp;rsquo;m using vim and hugo to generate this site. The theme is after dark. Thanks.</description>
+    </item>
+    
+  </channel>
+</rss>
